@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#77ee77">
+
+    <Button
+        android:id="@+id/secondBtnNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+        android:backgroundTint="#aaff00"
+        android:text="새 화면 열기"/>
+    <Button
+        android:id="@+id/secondBtnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+        android:backgroundTint="#aaff00"
+        android:text="돌아가기"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capstone Design Alarm</string>
+    <string name="Alarm">현재 집을 비우셨습니다. 청소를 시작하시겠습니까?</string>
+    <string name="Yes">예</string>
+    <string name="No">아니요</string>
+    <string name="time">따로 시간 지정</string>
+
+
+</resources>

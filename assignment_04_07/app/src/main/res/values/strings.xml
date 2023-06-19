@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">연습문제 4-7</string>
+    <string name="strChx1">Enabled 속성</string>
+    <string name="strChx2">Clickable 속성</string>
+    <string name="strChx3">45도 회전</string>
+    <string name="strBtn">Button</string>
+
+</resources>

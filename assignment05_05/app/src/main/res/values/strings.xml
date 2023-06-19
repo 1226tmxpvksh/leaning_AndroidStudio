@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assignment05_05</string>
+    <string name="center">기준 위셋</string>
+    <string name="btn1">1번</string>
+    <string name="btn2">2번</string>
+    <string name="btn3">3번</string>
+    <string name="btn4">4번</string>
+    <string name="btn5">5번</string>
+    <string name="btn6">6번</string>
+</resources>

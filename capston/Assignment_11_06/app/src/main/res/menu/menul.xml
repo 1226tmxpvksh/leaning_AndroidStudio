@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rotate"
+        android:title="Rotate" />
+    <item
+        android:id="@+id/sizeup"
+        android:title="Size Up" />
+    <item
+        android:id="@+id/sizedown"
+        android:title="Size Down" />
+    <item
+        android:id="@+id/rotateup"
+        android:title="Rotate Up" />
+    <item
+        android:id="@+id/rotatedown"
+        android:title="Rotate Down" />
+</menu>

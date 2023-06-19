@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="50dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Improvements"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Regards"/>
+    <EditText
+        android:id="@+id/ImprovementsWrite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/RegardsWrite"></EditText>
+
+    <TextView
+        android:id="@+id/Regards"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Regards"/>
+    <EditText
+        android:id="@+id/RegardsWrite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/RegardsWrite"></EditText>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"/>ㅁ
+
+        <Button
+            android:id="@+id/Apply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/apply"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

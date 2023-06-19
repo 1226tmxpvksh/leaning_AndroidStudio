@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capstone Design Cleaning</string>
+    <string name="time">청소 시작한지 얼만큼 됐는지</string>
+    <string name="cleaning">청소 중지</string>
+</resources>
